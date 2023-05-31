@@ -1,2 +1,2 @@
 # fretboard
-App for learning the fretboard
+An app for learning the fretboard.
